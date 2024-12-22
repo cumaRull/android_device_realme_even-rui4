@@ -9,6 +9,8 @@ DEVICE_PATH := device/realme/even
 # APEX
 DEXPREOPT_GENERATE_APEX_IMAGE := true
 
+BOARD_VENDOR := realme
+
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-2a-dotprod
